@@ -50,6 +50,3 @@ To run these notebooks and the Streamlit app, the following Python libraries are
 1. Ensure all dependencies are installed via `pip install -r requirements.txt` (or install manually).
 2. For the Notebooks (`.ipynb`): Launch Jupyter Notebook or JupyterLab, open the desired file, and execute the cells sequentially.
 3. For the Dashboard (`app.py`): Run the command `streamlit run app.py` in your terminal to launch the web application locally.
-
----
-*Note: Ensure that the respective datasets (`bank-full.csv`, `origination_data-2.csv`, `household_power_consumption.csv`, `superstore.csv`) are located in the same directory as their executing files.*
